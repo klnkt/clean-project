@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "sourceMap": true,
+    "noUnusedLocals": true,
+    "strictFunctionTypes": true,
+    "strictNullChecks": true,
+    "moduleResolution": "node",
+    "lib": ["es2015", "es2016", "es2017", "es2018", "dom", "dom.iterable"],
+    "target": "es6"
+  }
+}
